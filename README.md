@@ -1,4 +1,4 @@
 # python-studyfolio
 [jupyter notebook]
 
->  - [웹 크롤링(web crawling)](Web Crawling.html) <br/>
+>  - [웹 크롤링(web crawling)](crawling_web.html) <br/>
